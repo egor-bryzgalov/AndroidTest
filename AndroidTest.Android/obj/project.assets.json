@@ -1940,11 +1940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest.Android\\AndroidTest.Android.csproj",
+      "projectUniqueName": "D:\\Repositories\\AndroidTest\\AndroidTest.Android\\AndroidTest.Android.csproj",
       "projectName": "AndroidTest.Android",
-      "projectPath": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest.Android\\AndroidTest.Android.csproj",
+      "projectPath": "D:\\Repositories\\AndroidTest\\AndroidTest.Android\\AndroidTest.Android.csproj",
       "packagesPath": "C:\\Users\\egor.bryzgalov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest.Android\\obj\\",
+      "outputPath": "D:\\Repositories\\AndroidTest\\AndroidTest.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1965,8 +1965,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest\\AndroidTest.csproj": {
-              "projectPath": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest\\AndroidTest.csproj"
+            "D:\\Repositories\\AndroidTest\\AndroidTest\\AndroidTest.csproj": {
+              "projectPath": "D:\\Repositories\\AndroidTest\\AndroidTest\\AndroidTest.csproj"
             }
           }
         }

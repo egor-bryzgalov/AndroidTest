@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aznZi2AHez8OQ0yLlmDIRFWouHWc+t845zTwKVDByHaKmajoaVm1bSlb4E+txlee9EO/aCz9+cRE2edh7OZKvA==",
+  "dgSpecHash": "iEn9oqrJJ4u2dXAf6ueMFGoMEKJbLsodf0EJHc69dVdnLC2HBN89BjX3ui6AN9xVgYk74uoSVhEptLAyHrH/Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest\\AndroidTest.csproj",
+  "projectFilePath": "D:\\Repositories\\AndroidTest\\AndroidTest\\AndroidTest.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

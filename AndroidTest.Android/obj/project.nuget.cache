@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bPONwBium1UgT5ahljeamHQNP6AfpYweRjK7ZVB7o6hdL7k4L2o+dQIc9R+tVPzU4u3pBnnBunK/u5SeA4NXGg==",
+  "dgSpecHash": "guM9CaqnnDnF3hR7Rd1ZEb3G82i8u9yyBp+IyhP5VWT10o9qEdGWPwYpgvhKgYG4YLFGIZ6v90vLfdz9C2d8pQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest.Android\\AndroidTest.Android.csproj",
+  "projectFilePath": "D:\\Repositories\\AndroidTest\\AndroidTest.Android\\AndroidTest.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\egor.bryzgalov\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",

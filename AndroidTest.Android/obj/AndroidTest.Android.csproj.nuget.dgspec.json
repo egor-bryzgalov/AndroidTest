@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest.Android\\AndroidTest.Android.csproj": {}
+    "D:\\Repositories\\AndroidTest\\AndroidTest.Android\\AndroidTest.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest.Android\\AndroidTest.Android.csproj": {
+    "D:\\Repositories\\AndroidTest\\AndroidTest.Android\\AndroidTest.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest.Android\\AndroidTest.Android.csproj",
+        "projectUniqueName": "D:\\Repositories\\AndroidTest\\AndroidTest.Android\\AndroidTest.Android.csproj",
         "projectName": "AndroidTest.Android",
-        "projectPath": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest.Android\\AndroidTest.Android.csproj",
+        "projectPath": "D:\\Repositories\\AndroidTest\\AndroidTest.Android\\AndroidTest.Android.csproj",
         "packagesPath": "C:\\Users\\egor.bryzgalov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest.Android\\obj\\",
+        "outputPath": "D:\\Repositories\\AndroidTest\\AndroidTest.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest\\AndroidTest.csproj": {
-                "projectPath": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest\\AndroidTest.csproj"
+              "D:\\Repositories\\AndroidTest\\AndroidTest\\AndroidTest.csproj": {
+                "projectPath": "D:\\Repositories\\AndroidTest\\AndroidTest\\AndroidTest.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest\\AndroidTest.csproj": {
+    "D:\\Repositories\\AndroidTest\\AndroidTest\\AndroidTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest\\AndroidTest.csproj",
+        "projectUniqueName": "D:\\Repositories\\AndroidTest\\AndroidTest\\AndroidTest.csproj",
         "projectName": "AndroidTest",
-        "projectPath": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest\\AndroidTest.csproj",
+        "projectPath": "D:\\Repositories\\AndroidTest\\AndroidTest\\AndroidTest.csproj",
         "packagesPath": "C:\\Users\\egor.bryzgalov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest\\obj\\",
+        "outputPath": "D:\\Repositories\\AndroidTest\\AndroidTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

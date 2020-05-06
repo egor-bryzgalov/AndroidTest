@@ -575,11 +575,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest\\AndroidTest.csproj",
+      "projectUniqueName": "D:\\Repositories\\AndroidTest\\AndroidTest\\AndroidTest.csproj",
       "projectName": "AndroidTest",
-      "projectPath": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest\\AndroidTest.csproj",
+      "projectPath": "D:\\Repositories\\AndroidTest\\AndroidTest\\AndroidTest.csproj",
       "packagesPath": "C:\\Users\\egor.bryzgalov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\egor.bryzgalov\\source\\repos\\AndroidTest\\AndroidTest\\obj\\",
+      "outputPath": "D:\\Repositories\\AndroidTest\\AndroidTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
